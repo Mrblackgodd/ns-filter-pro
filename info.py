@@ -57,7 +57,7 @@ IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "✅ I Found: <code>{query}</code>\
 FILE_CAPTION = environ.get("FILE_CAPTION", "<code>{file_name}</code>")
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
 SHORTLINK_URL = environ.get("SHORTLINK_URL", "shareus.io")
-SHORTLINK_API = environ.get("SHORTLINK_API", "zKMfImhgnFVTWBp9w00ChMHseBF2")
+SHORTLINK_API = environ.get("SHORTLINK_API", "9PCQSdy6lXSgbCsGNyRmzECTcM23")
 WELCOME_TEXT = environ.get("WELCOME_TEXT", "Hello {mention}, Welcome to {title} group!")
                            
 # Log
