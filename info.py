@@ -38,7 +38,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 
 # Links
 SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/+gkhvihXg5K5kM2Rl')
-UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/gfdgfdhdttrhh')
+UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/psycobotz')
 
 # Bot settings
 AUTO_FILTER = is_enabled((environ.get('AUTO_FILTER', "True")), True)
